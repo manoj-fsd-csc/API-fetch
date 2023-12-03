@@ -1,10 +1,10 @@
-body{
+ body{
     display: grid;
      
      flex-wrap: wrap;
      justify-content: center !important;
      align-items: center;
-     background-color: burlywood !important;
+     background-color: rgb(135, 195, 222) !important;
    
  }
  .card{
@@ -12,22 +12,22 @@ body{
      margin-left: 30px;
      width: 300px;
      height: 300px;
-     border: 5px solid aqua !important;
+     border: 5px solid rgb(255, 0, 0) !important;
      background-color: black!important;
  }
  .card-body{
      background-color: black!important;
-     color: aqua !important;
+     color: rgb(229, 255, 0) !important;
  }
  .card-img-top{
      width: auto;
      height: 200px;
      margin: auto;
-     border: 2px solid aqua !important;
+     border: 2px solid rgb(255, 81, 0) !important;
  }
  .card-header{
     background-color: black!important;
-    color: aqua !important;
+    color: white!important;
     font-weight: bolder;
     font-size:larger;
  }
